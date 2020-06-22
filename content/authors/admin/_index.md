@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jung Hye Lee
+title: Junghye Lee
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Management Engineering
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
 - name: Ulsan National University of Science and Technology
-  url: ""
+  url: "https://sites.google.com/view/unistai2020"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Federated Learning
+- Distributed Learning
+- Secure and Privacy-Preserving Machine Learning
+- Data Mining in Healthcare
+- Chemometrics
+- Machine Learning
+- Probabilistic Graphical Models
+
+
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Ph.D., Probability and Statistical Analysis Laboratory
+    institution: Pohang University of Science and Technology (POSTECH)
+    year: 2017
+  - course: B.S., Industrial and Management Engineering
+    institution: Pohang University of Science and Technology (POSTECH)
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
