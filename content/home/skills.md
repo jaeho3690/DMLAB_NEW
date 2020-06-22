@@ -15,21 +15,21 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
+  icon = "assets/images/icon-pack/cloud"
+  icon_pack = "custom"
+  name = "Privacy Preserving Machine Learning"
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
+  icon = "assets/images/icon-pack/blockchain"
+  icon_pack = "custom"
+  name = "Graph Representation Learning"
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
+  icon = "assets/images/icon-pack/distribution"
+  icon_pack = "custom"
+  name = "Federated Learning"
   description = "10%"
 
 # Uncomment to use emoji icons.
