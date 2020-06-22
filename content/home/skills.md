@@ -15,19 +15,19 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "assets/images/icon-pack/cloud"
+  icon = "/assets/images/icon-pack/cloud"
   icon_pack = "custom"
   name = "Privacy Preserving Machine Learning"
   description = "90%"
   
 [[feature]]
-  icon = "assets/images/icon-pack/blockchain"
+  icon = "/assets/images/icon-pack/blockchain"
   icon_pack = "custom"
   name = "Graph Representation Learning"
   description = "100%"  
   
 [[feature]]
-  icon = "assets/images/icon-pack/distribution"
+  icon = "/assets/images/icon-pack/distribution"
   icon_pack = "custom"
   name = "Federated Learning"
   description = "10%"
