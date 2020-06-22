@@ -27,7 +27,7 @@ subtitle = ""
   description = "100%"  
   
 [[feature]]
-  icon = "./assets/images/icon-pack/distribution"
+  icon = "distribution"
   icon_pack = "custom"
   name = "Federated Learning"
   description = "10%"
